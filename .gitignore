@@ -1,0 +1,12 @@
+﻿# Dependencies
+node_modules/
+
+# Environment variables (NEVER push these)
+.env
+
+# Build output
+client/build/
+
+# OS files
+.DS_Store
+Thumbs.db
